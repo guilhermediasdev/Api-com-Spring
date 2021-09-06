@@ -6,7 +6,7 @@ Projeto criado conforme especificado pela Tinnova para criação das APIs em Jav
 ### Como o projeto está configurado:
  O projeto está estruturado nos seguintes pacotes(packages):
  
- ![img.png](data/images/estrutura_projeto.png)
+ ![img.png](data/imagem/estrutura_projeto.png)
 
 Pacotes:
 - config (classes de configurações)
@@ -26,7 +26,7 @@ Faça o clone do repositório em alguma pasta, após isso acesse a pasta e digit
 ```
 mvn clean install
 ```
-![img.png](data/images/img.png)
+![img.png](/data/images/img.png)
 
 Após o build execute o seguinte comando:
 
